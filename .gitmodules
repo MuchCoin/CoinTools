@@ -1,0 +1,3 @@
+[submodule "pycgminer"]
+	path = pycgminer
+	url = https://github.com/tsileo/pycgminer.git
